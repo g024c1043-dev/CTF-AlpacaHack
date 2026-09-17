@@ -1,0 +1,2 @@
+WriteUp
+https://github.com/baumroll0928-spec/myRepository/tree/main/Daily_AlpacaHack/m202609/d02_base_16-32-64
